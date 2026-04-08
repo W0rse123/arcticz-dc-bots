@@ -1,0 +1,19 @@
+{
+  "allowed_roles": [],
+  "schematics": [
+    {
+      "name": "Arc Wooly V2",
+      "description": "Sheep Factory",
+      "file_name": "Arc Wooly V2.litematic",
+      "file_path": "schematics/Arc Wooly V2.litematic",
+      "details": "https://www.youtube.com/watch?v=_j94EJnoudk"
+    },
+    {
+      "name": "Arc Smelter V1",
+      "description": "Kelpfarmless smelter",
+      "file_name": "Arc Smelter V1.litematic",
+      "file_path": "schematics/Arc Smelter V1.litematic",
+      "details": "https://www.youtube.com/watch?v=TWkFgPYL5uI"
+    }
+  ]
+}
